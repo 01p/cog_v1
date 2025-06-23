@@ -60,7 +60,7 @@ coverage.xml
 # Data files (exclude data/ from ignore)
 !data/
 
-data/
+
 
 # Ignore everything in data/ except this file
 !data/.gitkeep

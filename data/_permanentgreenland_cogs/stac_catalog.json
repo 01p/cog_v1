@@ -1,0 +1,833 @@
+{
+  "type": "Collection",
+  "id": "permanentgreenland_annually",
+  "title": "Permanent Greenland Phenology Dataset",
+  "description": "Gr\u00fcnland-Ph\u00e4nologie-Zeitreihe Deutschland 1993-2022 basierend auf Fernerkundung.",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Gr\u00fcnland",
+    "Ph\u00e4nologie",
+    "Fernerkundung",
+    "Deutschland",
+    "Zeitreihe"
+  ],
+  "extent": {
+    "spatial": [
+      280425.207,
+      5235501.264,
+      934425.207,
+      6101501.265
+    ],
+    "temporal": [
+      "1993-01-01T00:00:00Z",
+      "2022-01-01T00:00:00Z"
+    ]
+  },
+  "providers": [
+    {
+      "name": "Julius K\u00fchn-Institut",
+      "roles": [
+        "producer"
+      ]
+    },
+    {
+      "name": "BonaRes Datenzentrum",
+      "roles": [
+        "publisher"
+      ]
+    }
+  ],
+  "links": [],
+  "item_assets": {
+    "doy1": {
+      "title": "Greenup - Day of Year",
+      "type": "image/tiff; application=geotiff; profile=cog"
+    },
+    "doy25": {
+      "title": "Cut for hay - Day of Year",
+      "type": "image/tiff; application=geotiff; profile=cog"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1993",
+      "properties": {
+        "datetime": "1993-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1993",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1993.tif",
+          "title": "Gr\u00fcnland 1993",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1994",
+      "properties": {
+        "datetime": "1994-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1994",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1994.tif",
+          "title": "Gr\u00fcnland 1994",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1995",
+      "properties": {
+        "datetime": "1995-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1995",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1995.tif",
+          "title": "Gr\u00fcnland 1995",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1996",
+      "properties": {
+        "datetime": "1996-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1996",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1996.tif",
+          "title": "Gr\u00fcnland 1996",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1997",
+      "properties": {
+        "datetime": "1997-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1997",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1997.tif",
+          "title": "Gr\u00fcnland 1997",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1998",
+      "properties": {
+        "datetime": "1998-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1998",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1998.tif",
+          "title": "Gr\u00fcnland 1998",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_1999",
+      "properties": {
+        "datetime": "1999-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 1999",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_1999.tif",
+          "title": "Gr\u00fcnland 1999",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2000",
+      "properties": {
+        "datetime": "2000-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2000",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2000.tif",
+          "title": "Gr\u00fcnland 2000",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2001",
+      "properties": {
+        "datetime": "2001-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2001",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2001.tif",
+          "title": "Gr\u00fcnland 2001",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2002",
+      "properties": {
+        "datetime": "2002-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2002",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2002.tif",
+          "title": "Gr\u00fcnland 2002",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2003",
+      "properties": {
+        "datetime": "2003-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2003",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2003.tif",
+          "title": "Gr\u00fcnland 2003",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2004",
+      "properties": {
+        "datetime": "2004-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2004",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2004.tif",
+          "title": "Gr\u00fcnland 2004",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2005",
+      "properties": {
+        "datetime": "2005-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2005",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2005.tif",
+          "title": "Gr\u00fcnland 2005",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2006",
+      "properties": {
+        "datetime": "2006-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2006",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2006.tif",
+          "title": "Gr\u00fcnland 2006",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2007",
+      "properties": {
+        "datetime": "2007-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2007",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2007.tif",
+          "title": "Gr\u00fcnland 2007",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2008",
+      "properties": {
+        "datetime": "2008-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2008",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2008.tif",
+          "title": "Gr\u00fcnland 2008",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2009",
+      "properties": {
+        "datetime": "2009-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2009",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2009.tif",
+          "title": "Gr\u00fcnland 2009",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2010",
+      "properties": {
+        "datetime": "2010-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2010",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2010.tif",
+          "title": "Gr\u00fcnland 2010",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2011",
+      "properties": {
+        "datetime": "2011-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2011",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2011.tif",
+          "title": "Gr\u00fcnland 2011",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2012",
+      "properties": {
+        "datetime": "2012-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2012",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2012.tif",
+          "title": "Gr\u00fcnland 2012",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2013",
+      "properties": {
+        "datetime": "2013-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2013",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2013.tif",
+          "title": "Gr\u00fcnland 2013",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2014",
+      "properties": {
+        "datetime": "2014-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2014",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2014.tif",
+          "title": "Gr\u00fcnland 2014",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2015",
+      "properties": {
+        "datetime": "2015-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2015",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2015.tif",
+          "title": "Gr\u00fcnland 2015",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2016",
+      "properties": {
+        "datetime": "2016-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2016",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2016.tif",
+          "title": "Gr\u00fcnland 2016",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2017",
+      "properties": {
+        "datetime": "2017-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2017",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2017.tif",
+          "title": "Gr\u00fcnland 2017",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2018",
+      "properties": {
+        "datetime": "2018-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2018",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2018.tif",
+          "title": "Gr\u00fcnland 2018",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2019",
+      "properties": {
+        "datetime": "2019-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2019",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2019.tif",
+          "title": "Gr\u00fcnland 2019",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2020",
+      "properties": {
+        "datetime": "2020-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2020",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2020.tif",
+          "title": "Gr\u00fcnland 2020",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2021",
+      "properties": {
+        "datetime": "2021-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2021",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2021.tif",
+          "title": "Gr\u00fcnland 2021",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "permanentgreenland_2022",
+      "properties": {
+        "datetime": "2022-01-01T00:00:00Z",
+        "title": "Gr\u00fcnland-Ph\u00e4nologie 2022",
+        "description": "Gr\u00fcnland-Ph\u00e4nologie-Metriken f\u00fcr Deutschland",
+        "license": "CC-BY-4.0",
+        "publisher": "BonaRes Datenzentrum",
+        "authors": [
+          "Julius K\u00fchn-Institut"
+        ],
+        "resource_type": "Dataset",
+        "subject": "Bodenforschung, Ph\u00e4nologie, Fernerkundung",
+        "geography": "Deutschland",
+        "funding": "Gef\u00f6rdert durch BMBF im Rahmen von BonaRes",
+        "contact": "datenzentrum@bonares.de"
+      },
+      "assets": {
+        "data": {
+          "href": "permanentgreenland_2022.tif",
+          "title": "Gr\u00fcnland 2022",
+          "type": "image/tiff; application=geotiff; profile=cog"
+        }
+      }
+    }
+  ]
+}
